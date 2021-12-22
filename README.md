@@ -1,4 +1,4 @@
 # Asincroniso-JavaScript
-Código y nots del curso de snocronismo en JavaScript, consmienod la API de Rick And Morty
+Código y notas del curso de asincronismo en JavaScript, consumiendo la API de Rick And Morty
 curso de Platzi
 el Código tiene los comentarios explicando el funcionamiento de cada función 
